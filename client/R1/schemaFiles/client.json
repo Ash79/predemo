@@ -1,0 +1,1 @@
+{"type":"object","properties":{"id":{"type":"string","format":""},"firstName":{"type":"string","format":""},"lastName":{"type":"string","format":""}},"required":["id","firstName","lastName"]}

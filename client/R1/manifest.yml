@@ -1,0 +1,5 @@
+---
+applications:
+- name: clientapi
+  memory: 256M
+  command: node R1/index.js
